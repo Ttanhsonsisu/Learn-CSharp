@@ -1,0 +1,7 @@
+C:\Users\ttanh\OneDrive\Tài liệu\Learn-CSharp\fundamantal\AtributeCS\AtributeCS\bin\Debug\AtributeCS.exe.config
+C:\Users\ttanh\OneDrive\Tài liệu\Learn-CSharp\fundamantal\AtributeCS\AtributeCS\bin\Debug\AtributeCS.exe
+C:\Users\ttanh\OneDrive\Tài liệu\Learn-CSharp\fundamantal\AtributeCS\AtributeCS\bin\Debug\AtributeCS.pdb
+C:\Users\ttanh\OneDrive\Tài liệu\Learn-CSharp\fundamantal\AtributeCS\AtributeCS\obj\Debug\AtributeCS.csproj.AssemblyReference.cache
+C:\Users\ttanh\OneDrive\Tài liệu\Learn-CSharp\fundamantal\AtributeCS\AtributeCS\obj\Debug\AtributeCS.csproj.CoreCompileInputs.cache
+C:\Users\ttanh\OneDrive\Tài liệu\Learn-CSharp\fundamantal\AtributeCS\AtributeCS\obj\Debug\AtributeCS.exe
+C:\Users\ttanh\OneDrive\Tài liệu\Learn-CSharp\fundamantal\AtributeCS\AtributeCS\obj\Debug\AtributeCS.pdb

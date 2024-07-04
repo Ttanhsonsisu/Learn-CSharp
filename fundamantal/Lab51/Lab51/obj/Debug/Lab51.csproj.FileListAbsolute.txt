@@ -1,0 +1,2 @@
+C:\Users\ttanh\OneDrive\Tài liệu\Learn-CSharp\fundamantal\Lab51\Lab51\obj\Debug\Lab51.csproj.AssemblyReference.cache
+C:\Users\ttanh\OneDrive\Tài liệu\Learn-CSharp\fundamantal\Lab51\Lab51\obj\Debug\Lab51.csproj.CoreCompileInputs.cache

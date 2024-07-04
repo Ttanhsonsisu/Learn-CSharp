@@ -1,0 +1,7 @@
+C:\Users\ttanh\OneDrive\Tài liệu\Learn-CSharp\fundamantal\Lab101\EX\bin\Debug\EX.exe.config
+C:\Users\ttanh\OneDrive\Tài liệu\Learn-CSharp\fundamantal\Lab101\EX\bin\Debug\EX.exe
+C:\Users\ttanh\OneDrive\Tài liệu\Learn-CSharp\fundamantal\Lab101\EX\bin\Debug\EX.pdb
+C:\Users\ttanh\OneDrive\Tài liệu\Learn-CSharp\fundamantal\Lab101\EX\obj\Debug\EX.csproj.AssemblyReference.cache
+C:\Users\ttanh\OneDrive\Tài liệu\Learn-CSharp\fundamantal\Lab101\EX\obj\Debug\EX.csproj.CoreCompileInputs.cache
+C:\Users\ttanh\OneDrive\Tài liệu\Learn-CSharp\fundamantal\Lab101\EX\obj\Debug\EX.exe
+C:\Users\ttanh\OneDrive\Tài liệu\Learn-CSharp\fundamantal\Lab101\EX\obj\Debug\EX.pdb

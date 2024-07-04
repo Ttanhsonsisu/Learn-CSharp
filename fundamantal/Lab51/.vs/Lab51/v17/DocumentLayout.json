@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\Lab51\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5913A44-E9CB-4979-A3AA-A9BDFA65A8E1}|EX\\EX.csproj|c:\\users\\ttanh\\onedrive\\ta\u0300i li\u00EA\u0323u\\learn-csharp\\fundamantal\\lab51\\ex\\ex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5913A44-E9CB-4979-A3AA-A9BDFA65A8E1}|EX\\EX.csproj|solutionrelative:ex\\ex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5913A44-E9CB-4979-A3AA-A9BDFA65A8E1}|EX\\EX.csproj|c:\\users\\ttanh\\onedrive\\ta\u0300i li\u00EA\u0323u\\learn-csharp\\fundamantal\\lab51\\ex\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5913A44-E9CB-4979-A3AA-A9BDFA65A8E1}|EX\\EX.csproj|solutionrelative:ex\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E0A914-7AD3-40AA-BE93-49E279D1849F}|Lab52\\Lab52\\Lab52.csproj|c:\\users\\ttanh\\onedrive\\ta\u0300i li\u00EA\u0323u\\learn-csharp\\fundamantal\\lab51\\lab52\\lab52\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E0A914-7AD3-40AA-BE93-49E279D1849F}|Lab52\\Lab52\\Lab52.csproj|solutionrelative:lab52\\lab52\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E0A914-7AD3-40AA-BE93-49E279D1849F}|Lab52\\Lab52\\Lab52.csproj|c:\\users\\ttanh\\onedrive\\ta\u0300i li\u00EA\u0323u\\learn-csharp\\fundamantal\\lab51\\lab52\\lab52\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E0A914-7AD3-40AA-BE93-49E279D1849F}|Lab52\\Lab52\\Lab52.csproj|solutionrelative:lab52\\lab52\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E0A914-7AD3-40AA-BE93-49E279D1849F}|Lab52\\Lab52\\Lab52.csproj|c:\\users\\ttanh\\onedrive\\ta\u0300i li\u00EA\u0323u\\learn-csharp\\fundamantal\\lab51\\lab52\\lab52\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E0A914-7AD3-40AA-BE93-49E279D1849F}|Lab52\\Lab52\\Lab52.csproj|solutionrelative:lab52\\lab52\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5913A44-E9CB-4979-A3AA-A9BDFA65A8E1}|EX\\EX.csproj|c:\\users\\ttanh\\onedrive\\ta\u0300i li\u00EA\u0323u\\learn-csharp\\fundamantal\\lab51\\ex\\ex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5913A44-E9CB-4979-A3AA-A9BDFA65A8E1}|EX\\EX.csproj|solutionrelative:ex\\ex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5913A44-E9CB-4979-A3AA-A9BDFA65A8E1}|EX\\EX.csproj|c:\\users\\ttanh\\onedrive\\ta\u0300i li\u00EA\u0323u\\learn-csharp\\fundamantal\\lab51\\ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5913A44-E9CB-4979-A3AA-A9BDFA65A8E1}|EX\\EX.csproj|solutionrelative:ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355183DA-9D60-40B1-B193-5DAA2721E15B}|Lab51\\Lab51.csproj|C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\Lab51\\lab51\\ashape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355183DA-9D60-40B1-B193-5DAA2721E15B}|Lab51\\Lab51.csproj|solutionrelative:lab51\\ashape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355183DA-9D60-40B1-B193-5DAA2721E15B}|Lab51\\Lab51.csproj|c:\\users\\ttanh\\onedrive\\ta\u0300i li\u00EA\u0323u\\learn-csharp\\fundamantal\\lab51\\lab51\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355183DA-9D60-40B1-B193-5DAA2721E15B}|Lab51\\Lab51.csproj|solutionrelative:lab51\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355183DA-9D60-40B1-B193-5DAA2721E15B}|Lab51\\Lab51.csproj|C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\Lab51\\lab51\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355183DA-9D60-40B1-B193-5DAA2721E15B}|Lab51\\Lab51.csproj|solutionrelative:lab51\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355183DA-9D60-40B1-B193-5DAA2721E15B}|Lab51\\Lab51.csproj|C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\Lab51\\lab51\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355183DA-9D60-40B1-B193-5DAA2721E15B}|Lab51\\Lab51.csproj|solutionrelative:lab51\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Interface1.cs",
+              "DocumentMoniker": "C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\Lab51\\EX\\Interface1.cs",
+              "RelativeDocumentMoniker": "EX\\Interface1.cs",
+              "ToolTip": "C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\Lab51\\EX\\Interface1.cs",
+              "RelativeToolTip": "EX\\Interface1.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:34:03.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EX2.cs",
+              "DocumentMoniker": "C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\Lab51\\EX\\EX2.cs",
+              "RelativeDocumentMoniker": "EX\\EX2.cs",
+              "ToolTip": "C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\Lab51\\EX\\EX2.cs",
+              "RelativeToolTip": "EX\\EX2.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:31:39.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPerson.cs",
+              "DocumentMoniker": "C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\Lab51\\Lab52\\Lab52\\IPerson.cs",
+              "RelativeDocumentMoniker": "Lab52\\Lab52\\IPerson.cs",
+              "ToolTip": "C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\Lab51\\Lab52\\Lab52\\IPerson.cs",
+              "RelativeToolTip": "Lab52\\Lab52\\IPerson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:02:57.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\Lab51\\Lab52\\Lab52\\Program.cs",
+              "RelativeDocumentMoniker": "Lab52\\Lab52\\Program.cs",
+              "ToolTip": "C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\Lab51\\Lab52\\Lab52\\Program.cs",
+              "RelativeToolTip": "Lab52\\Lab52\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwBkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:02:29.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\Lab51\\Lab52\\Lab52\\Staff.cs",
+              "RelativeDocumentMoniker": "Lab52\\Lab52\\Staff.cs",
+              "ToolTip": "C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\Lab51\\Lab52\\Lab52\\Staff.cs",
+              "RelativeToolTip": "Lab52\\Lab52\\Staff.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAA9wCQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:04:19.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EX1.cs",
+              "DocumentMoniker": "C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\Lab51\\EX\\EX1.cs",
+              "RelativeDocumentMoniker": "EX\\EX1.cs",
+              "ToolTip": "C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\Lab51\\EX\\EX1.cs",
+              "RelativeToolTip": "EX\\EX1.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA9wCMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:18:57.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\Lab51\\EX\\Program.cs",
+              "RelativeDocumentMoniker": "EX\\Program.cs",
+              "ToolTip": "C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\Lab51\\EX\\Program.cs",
+              "RelativeToolTip": "EX\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:17:57.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\Lab51\\Lab51\\Program.cs",
+              "RelativeDocumentMoniker": "Lab51\\Program.cs",
+              "ToolTip": "C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\Lab51\\Lab51\\Program.cs",
+              "RelativeToolTip": "Lab51\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwBMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T02:46:20.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AShape.cs",
+              "DocumentMoniker": "C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\Lab51\\Lab51\\AShape.cs",
+              "RelativeDocumentMoniker": "Lab51\\AShape.cs",
+              "ToolTip": "C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\Lab51\\Lab51\\AShape.cs",
+              "RelativeToolTip": "Lab51\\AShape.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T02:48:28.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\Lab51\\Lab51\\Circle.cs",
+              "RelativeDocumentMoniker": "Lab51\\Circle.cs",
+              "ToolTip": "C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\Lab51\\Lab51\\Circle.cs",
+              "RelativeToolTip": "Lab51\\Circle.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T02:52:23.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\Lab51\\Lab51\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Lab51\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\Lab51\\Lab51\\Rectangle.cs",
+              "RelativeToolTip": "Lab51\\Rectangle.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T02:49:07.009Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

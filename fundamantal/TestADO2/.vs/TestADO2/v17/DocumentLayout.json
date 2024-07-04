@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\TestADO2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F68D245A-7D6E-4B4A-A927-0A686C2D1903}|TestADO2\\TestADO2.csproj|c:\\users\\ttanh\\onedrive\\ta\u0300i li\u00EA\u0323u\\learn-csharp\\fundamantal\\testado2\\testado2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68D245A-7D6E-4B4A-A927-0A686C2D1903}|TestADO2\\TestADO2.csproj|solutionrelative:testado2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68D245A-7D6E-4B4A-A927-0A686C2D1903}|TestADO2\\TestADO2.csproj|C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\TestADO2\\testado2\\adopart3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68D245A-7D6E-4B4A-A927-0A686C2D1903}|TestADO2\\TestADO2.csproj|solutionrelative:testado2\\adopart3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68D245A-7D6E-4B4A-A927-0A686C2D1903}|TestADO2\\TestADO2.csproj|C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\TestADO2\\testado2\\testconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68D245A-7D6E-4B4A-A927-0A686C2D1903}|TestADO2\\TestADO2.csproj|solutionrelative:testado2\\testconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68D245A-7D6E-4B4A-A927-0A686C2D1903}|TestADO2\\TestADO2.csproj|C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\TestADO2\\testado2\\exquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68D245A-7D6E-4B4A-A927-0A686C2D1903}|TestADO2\\TestADO2.csproj|solutionrelative:testado2\\exquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68D245A-7D6E-4B4A-A927-0A686C2D1903}|TestADO2\\TestADO2.csproj|C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\TestADO2\\testado2\\serverutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68D245A-7D6E-4B4A-A927-0A686C2D1903}|TestADO2\\TestADO2.csproj|solutionrelative:testado2\\serverutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ADOPart3.cs",
+              "DocumentMoniker": "C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\TestADO2\\TestADO2\\ADOPart3.cs",
+              "RelativeDocumentMoniker": "TestADO2\\ADOPart3.cs",
+              "ToolTip": "C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\TestADO2\\TestADO2\\ADOPart3.cs",
+              "RelativeToolTip": "TestADO2\\ADOPart3.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:11:06.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EXQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\TestADO2\\TestADO2\\EXQuery.cs",
+              "RelativeDocumentMoniker": "TestADO2\\EXQuery.cs",
+              "ToolTip": "C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\TestADO2\\TestADO2\\EXQuery.cs",
+              "RelativeToolTip": "TestADO2\\EXQuery.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T03:07:09.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServerUtils.cs",
+              "DocumentMoniker": "C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\TestADO2\\TestADO2\\ServerUtils.cs",
+              "RelativeDocumentMoniker": "TestADO2\\ServerUtils.cs",
+              "ToolTip": "C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\TestADO2\\TestADO2\\ServerUtils.cs",
+              "RelativeToolTip": "TestADO2\\ServerUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T02:58:29.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestConnect.cs",
+              "DocumentMoniker": "C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\TestADO2\\TestADO2\\TestConnect.cs",
+              "RelativeDocumentMoniker": "TestADO2\\TestConnect.cs",
+              "ToolTip": "C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\TestADO2\\TestADO2\\TestConnect.cs",
+              "RelativeToolTip": "TestADO2\\TestConnect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T02:52:19.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\TestADO2\\TestADO2\\Program.cs",
+              "RelativeDocumentMoniker": "TestADO2\\Program.cs",
+              "ToolTip": "C:\\Users\\ttanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Learn-CSharp\\fundamantal\\TestADO2\\TestADO2\\Program.cs",
+              "RelativeToolTip": "TestADO2\\Program.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAcwHQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:07:08.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

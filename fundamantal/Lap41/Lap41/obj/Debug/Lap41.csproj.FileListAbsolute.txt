@@ -1,0 +1,7 @@
+C:\Users\ttanh\OneDrive\Tài liệu\Learn-CSharp\fundamantal\Lap41\Lap41\bin\Debug\Lap41.exe.config
+C:\Users\ttanh\OneDrive\Tài liệu\Learn-CSharp\fundamantal\Lap41\Lap41\bin\Debug\Lap41.exe
+C:\Users\ttanh\OneDrive\Tài liệu\Learn-CSharp\fundamantal\Lap41\Lap41\bin\Debug\Lap41.pdb
+C:\Users\ttanh\OneDrive\Tài liệu\Learn-CSharp\fundamantal\Lap41\Lap41\obj\Debug\Lap41.csproj.AssemblyReference.cache
+C:\Users\ttanh\OneDrive\Tài liệu\Learn-CSharp\fundamantal\Lap41\Lap41\obj\Debug\Lap41.csproj.CoreCompileInputs.cache
+C:\Users\ttanh\OneDrive\Tài liệu\Learn-CSharp\fundamantal\Lap41\Lap41\obj\Debug\Lap41.exe
+C:\Users\ttanh\OneDrive\Tài liệu\Learn-CSharp\fundamantal\Lap41\Lap41\obj\Debug\Lap41.pdb
